@@ -9,7 +9,7 @@ public class evenodd {
             System.out.println("EVEN");
         }
         else{
-            System.out.println();
+            System.out.println("odd");
         }
     }
     
